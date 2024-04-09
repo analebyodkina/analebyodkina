@@ -17,6 +17,8 @@ and coding of course :computer:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gulp_icon_130557.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/2748/PNG/512/github_apps_platform_icon_176071.png" />
 SASS (SCSS), BEM, Figma/Pixso
 
 <br />
