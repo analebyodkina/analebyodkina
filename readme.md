@@ -33,6 +33,7 @@ SASS (SCSS), BEM, Figma/Pixso
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/808/PNG/512/vk_icon-icons.com_66102.png" />][vk]
 
 <br />
+<br />
 
 ### My social meadia (rarely visited)
 
